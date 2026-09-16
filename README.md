@@ -7,7 +7,7 @@ sufficient and simpler.
 
 **Status: already deployed and working.**
 Live URL: https://easeup-topaz.vercel.app
-Repo: https://github.com/Krithika30-tech/easeup
+Repo: https://github.com/divyashreecsbs2024-rgb/easeup.git
 
 ## What's different from the Claude artifact version
 
